@@ -122,6 +122,24 @@ video{
     margin-top: 0 auto;
 }
 
+.card-play{
+    width: 40%;
+    border-radius: 5px;
+    float: right;
+    margin-right: -100px;
+    margin-top: -81vh;
+}
+
+.card-play p{
+    font-size: 16px;
+    margin-top: -7rem;
+    margin-left: 207px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
 button{
     position: absolute;
     top: 85px;
