@@ -54,7 +54,7 @@ div ul{
     grid-column: 1;
     grid-row: 2;
     padding: 238px;
-    margin-top: -42vh;
+    margin-top: -32vh;
     
 }
 
@@ -113,7 +113,7 @@ p strong{
 }
 
 video{
-    margin-top: 0 auto;
+    padding-top: 10px;
 }
 
 .tube{
@@ -124,7 +124,7 @@ video{
 
 button{
     position: absolute;
-    top: 77px;
+    top: 85px;
     left: 189px;
     margin: 375px;
     padding: 0px;
@@ -133,7 +133,7 @@ button{
 
 .btnCurtir{
     position: absolute;
-    top: 52px;
+    top: 60px;
     left: 107px;
     margin: 400px;
     padding: 0px;
