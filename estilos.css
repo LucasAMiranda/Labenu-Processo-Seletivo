@@ -51,11 +51,9 @@ div ul{
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 2px;
     grid-auto-rows: 100px, auto;
-    grid-column: 1;
-    grid-row: 2;
-    padding: 238px;
-    margin-top: -32vh;
-    
+    padding: 242px;
+    margin-top: -42vh;
+    padding-left: 162px;
 }
 
 li{
