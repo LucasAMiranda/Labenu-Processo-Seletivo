@@ -50,8 +50,8 @@ div ul{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 5px;
-    grid-auto-rows: 168px;
-    padding: 242px;
+    grid-auto-rows: 162px;
+    padding: 252px;
     margin-top: -42vh;
     padding-left: 162px;
 }
